@@ -1,0 +1,26 @@
+{
+  "name": "node-rest-api",
+  "version": "1.0.0",
+  "description": "Project intended to create Rest API and work on creating backend for Frontend Apps",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SulemanBhatti/Node-Rest-API.git"
+  },
+  "author": "Suleman Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SulemanBhatti/Node-Rest-API/issues"
+  },
+  "homepage": "https://github.com/SulemanBhatti/Node-Rest-API#readme"
+}
